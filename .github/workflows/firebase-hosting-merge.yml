@@ -17,3 +17,5 @@ jobs:
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_ISROISTHEBEST }}
           channelId: live
           projectId: isroisthebest
+        env:
+          NODE_OPTIONS: --max-old-space-size=4096
