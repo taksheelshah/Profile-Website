@@ -1,4 +1,3 @@
-
 const script = document.createElement('script');
 script.async = true;
 script.src = "https://www.googletagmanager.com/gtag/js?id=G-4RKE7J4MR6";
