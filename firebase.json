@@ -5,11 +5,7 @@
     "ignore": [
       "firebase.json",
       "**/.*",
-      "**/node_modules/**",
-      ".github/**",
-      ".git/**",
-      "package.json",
-      "package-lock.json"
+      "**/node_modules/**"
     ]
   }
 }
